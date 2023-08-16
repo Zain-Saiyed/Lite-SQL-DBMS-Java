@@ -1,0 +1,6 @@
+tableName<#H#>persons.metadata<#EOD#>
+id<#D#>int<#D#>not null<#EOD#>
+lastname<#D#>varchar(255)<#D#>not null<#EOD#>
+firstname<#D#>varchar(255)<#D#>null<#EOD#>
+age<#D#>int<#D#>null<#EOD#>
+PK<#D#>id

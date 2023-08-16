@@ -1,0 +1,5 @@
+tableName<#H#>loginInfo<#EOD#>
+username<#D#>text<#EOD#>
+password<#D#>text<#EOD#>
+question<#D#>text<#EOD#>
+answer<#D#>text<#EOD#>

@@ -1,0 +1,6 @@
+tableName<#H#>orders.metadata<#EOD#>
+orderid<#D#>int<#D#>not null<#EOD#>
+ordernumber<#D#>int<#D#>not null<#EOD#>
+personid<#D#>int<#D#>null<#EOD#>
+PK<#D#>orderid
+FK<#D#>personid-persons.personid
